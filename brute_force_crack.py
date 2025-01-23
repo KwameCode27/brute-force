@@ -26,8 +26,8 @@ import random
 number = int(input("Enter your password: "))
 guess =0
 while(guess != number):
-    guess = random.randint(0,9999)
+    guess = random.randint(0,99999)
     print(guess)
 
 
-print(f"Your guess number: {guess}")
+print(f"Your guess number: {str(number)}")
