@@ -41,4 +41,6 @@ def test_brute_force(numberOfTest):
     test_brute_force(target_pin)
     end_time = time.time()
     time.append(end_time - start_time)
-  return time
+  return times
+
+# gngrngrngjngjt
