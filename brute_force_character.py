@@ -1,5 +1,5 @@
 import random
-import pyautogui
+# import pyautogui
 
 
 character= "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
