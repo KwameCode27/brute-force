@@ -43,4 +43,4 @@ def test_brute_force(numberOfTest):
     time.append(end_time - start_time)
   return times
 
-# gngrngrngjngjt
+# gngrngrngjngjtlgfkhgl start time
