@@ -44,5 +44,8 @@ def test_brute_force(numberOfTest):
   return times
 
 time_taken = test_brute_force(numberOfTest=500)
+time_taken = test_brute_force(numberOfTest=500)
+time_taken = test_brute_force(numberOfTest=500)
+time_taken = test_brute_force(numberOfTest=500)
 
 # gngrngrngjngjtlgfkhgl start time
