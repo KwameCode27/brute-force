@@ -6,3 +6,5 @@ def modular_exponential(base,exponent, modular):
     return result
 
 modular_exponential(base=7, exponent=121, modular=13)
+
+(7**121)%13
