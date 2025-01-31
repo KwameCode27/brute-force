@@ -1,7 +1,8 @@
 def modular_exponential(base,exponent, modular):
-    result = 0
+    result = 1
     if exponent > 0:
-        result = (base*exponent) % modular
+        result = (base*result) % modular
 
     return result
 
+modular_exponential(base=7, exponent=121, )
